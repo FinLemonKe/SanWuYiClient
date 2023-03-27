@@ -1,6 +1,6 @@
-# Meteor Addon Template
+# SanWuYiClient
 
-A template to allow easy usage of the Meteor Addon API.
+A MeteorClient 0.5.3 addon.
 
 ### How to use:  
 - Clone this project
